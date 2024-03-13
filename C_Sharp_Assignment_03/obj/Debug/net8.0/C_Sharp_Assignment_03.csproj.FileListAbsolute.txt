@@ -1,0 +1,14 @@
+C:\Users\This PC\Desktop\Assignment 03\C_Sharp_Assignment_03\C_Sharp_Assignment_03\bin\Debug\net8.0\C_Sharp_Assignment_03.exe
+C:\Users\This PC\Desktop\Assignment 03\C_Sharp_Assignment_03\C_Sharp_Assignment_03\bin\Debug\net8.0\C_Sharp_Assignment_03.deps.json
+C:\Users\This PC\Desktop\Assignment 03\C_Sharp_Assignment_03\C_Sharp_Assignment_03\bin\Debug\net8.0\C_Sharp_Assignment_03.runtimeconfig.json
+C:\Users\This PC\Desktop\Assignment 03\C_Sharp_Assignment_03\C_Sharp_Assignment_03\bin\Debug\net8.0\C_Sharp_Assignment_03.dll
+C:\Users\This PC\Desktop\Assignment 03\C_Sharp_Assignment_03\C_Sharp_Assignment_03\bin\Debug\net8.0\C_Sharp_Assignment_03.pdb
+C:\Users\This PC\Desktop\Assignment 03\C_Sharp_Assignment_03\C_Sharp_Assignment_03\obj\Debug\net8.0\C_Sharp_Assignment_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\This PC\Desktop\Assignment 03\C_Sharp_Assignment_03\C_Sharp_Assignment_03\obj\Debug\net8.0\C_Sharp_Assignment_03.AssemblyInfoInputs.cache
+C:\Users\This PC\Desktop\Assignment 03\C_Sharp_Assignment_03\C_Sharp_Assignment_03\obj\Debug\net8.0\C_Sharp_Assignment_03.AssemblyInfo.cs
+C:\Users\This PC\Desktop\Assignment 03\C_Sharp_Assignment_03\C_Sharp_Assignment_03\obj\Debug\net8.0\C_Sharp_Assignment_03.csproj.CoreCompileInputs.cache
+C:\Users\This PC\Desktop\Assignment 03\C_Sharp_Assignment_03\C_Sharp_Assignment_03\obj\Debug\net8.0\C_Sharp_Assignment_03.dll
+C:\Users\This PC\Desktop\Assignment 03\C_Sharp_Assignment_03\C_Sharp_Assignment_03\obj\Debug\net8.0\refint\C_Sharp_Assignment_03.dll
+C:\Users\This PC\Desktop\Assignment 03\C_Sharp_Assignment_03\C_Sharp_Assignment_03\obj\Debug\net8.0\C_Sharp_Assignment_03.pdb
+C:\Users\This PC\Desktop\Assignment 03\C_Sharp_Assignment_03\C_Sharp_Assignment_03\obj\Debug\net8.0\C_Sharp_Assignment_03.genruntimeconfig.cache
+C:\Users\This PC\Desktop\Assignment 03\C_Sharp_Assignment_03\C_Sharp_Assignment_03\obj\Debug\net8.0\ref\C_Sharp_Assignment_03.dll
